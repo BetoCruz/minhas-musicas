@@ -1,5 +1,5 @@
 <h1>Minhas musicas</h1>
-<h2>A aplicar seus conhecimentos em uma aplicação de um sistema de músicas, utilizando conceitos de orientação a objetos, encapsulamento, herança e polimorfismo.</h2>
+<h2>Aplicação de um sistema de músicas, utilizando conceitos de orientação a objetos, encapsulamento, herança e polimorfismo.</h2>
 
 Status do projeto: Em desenvolvimento
 
